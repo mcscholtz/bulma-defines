@@ -1,5 +1,5 @@
 [package]
-name = "bulma"
+name = "bulma-defines"
 version = "0.1.0"
 authors = ["marius <mc.scholtz@gmail.com>"]
 edition = "2018"
